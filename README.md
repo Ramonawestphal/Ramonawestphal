@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I’m Ramona 👋
 
-<!--
-**Ramonawestphal/Ramonawestphal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Econometrics & Operations Research (Erasmus University Rotterdam)  
+📍 Interested in quantitative finance, risk modeling, and applied econometrics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I work on
+- Volatility modeling (GARCH, Realized GARCH, HAR-RV)
+- Time series forecasting
+- Optimization & energy market models
+- Applied econometrics in finance and energy systems
+
+---
+
+## 📂 Featured projects
+- **S&P 500 Volatility Forecasting**  
+  GARCH, Realized GARCH, HAR-RV, out-of-sample evaluation & DM tests  
+  👉 [Repository link]
+
+- **Unit Commitment Problem (MILP)**  
+  Deterministic, stochastic & robust optimization with renewables  
+  👉 [Repository link]
+
+---
+
+## 🛠️ Tech stack
+- Python (NumPy, SciPy, pandas, statsmodels)
+- Optimization (Gurobi)
+- Econometrics & time series
+- Git & reproducible research
+
+---
+
+## 📫 Get in touch
+- LinkedIn: www.linkedin.com/in/ramona-westphal-2b346a179
