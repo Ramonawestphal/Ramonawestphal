@@ -16,12 +16,9 @@
 ## 📂 Featured projects
 - **S&P 500 Volatility Forecasting**  
   GARCH, Realized GARCH, HAR-RV, out-of-sample evaluation & DM tests  
-  👉 [Repository link]
 
 - **Unit Commitment Problem (MILP)**  
-  Deterministic, stochastic & robust optimization with renewables  
-  👉 [Repository link]
-
+  Deterministic, stochastic & robust optimization with renewables
 ---
 
 ## 🛠️ Tech stack
