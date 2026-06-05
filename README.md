@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Tech stack
-- Python (NumPy, SciPy, pandas, statsmodels)
+- Python (NumPy, SciPy, pandas, statsmodels, PyTorch)
 - Optimization (Gurobi)
 - Econometrics & time series
 - Git & reproducible research
