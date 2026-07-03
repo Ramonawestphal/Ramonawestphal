@@ -8,6 +8,7 @@
 
 ## 🔍 What I work on
 - Explainable Image recognition using BiomedCLIP and Neural Additive Models (BSc Thesis)
+- Graph Reinforcement Learning
 - Volatility modeling (GARCH, Realized GARCH, HAR-RV)
 - Time series forecasting
 - Optimization & energy market models
@@ -16,6 +17,9 @@
 ---
 
 ## 📂 Featured projects
+- **Explainable Image Recognition**
+  PyTorch, GPU, ML
+  
 - **S&P 500 Volatility Forecasting**  
   GARCH, Realized GARCH, HAR-RV, out-of-sample evaluation & DM tests  
 
