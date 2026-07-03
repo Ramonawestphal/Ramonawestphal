@@ -1,12 +1,12 @@
-# Hi, I’m Ramona 👋
+# Hi, I’m Ramona
 
-🎓 MSc Applied Mathematics & Statistics (Johns Hopkins University)
-🎓 BSc Econometrics & Operations Research (Erasmus University Rotterdam)
-📍 Interested in quantitative finance, risk modeling, and applied econometrics
+MSc Applied Mathematics & Statistics (Johns Hopkins University)
+BSc Econometrics & Operations Research (Erasmus University Rotterdam)
+Interested in quantitative finance, risk modeling, and applied econometrics
 
 ---
 
-## 🔍 What I work on
+## What I work on
 - Explainable Image recognition using BiomedCLIP and Neural Additive Models (BSc Thesis)
 - Graph Reinforcement Learning
 - Volatility modeling (GARCH, Realized GARCH, HAR-RV)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📂 Featured projects
+## Featured projects
 - **Explainable Image Recognition**
   PyTorch, GPU, ML
   
@@ -27,7 +27,7 @@
   Deterministic, stochastic & robust optimization with renewables
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 - Python (NumPy, SciPy, pandas, statsmodels, PyTorch)
 - Optimization (Gurobi)
 - Econometrics & time series
@@ -35,5 +35,5 @@
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 - LinkedIn: www.linkedin.com/in/ramona-westphal-2b346a179
