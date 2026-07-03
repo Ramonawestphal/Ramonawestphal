@@ -1,11 +1,13 @@
 # Hi, I’m Ramona 👋
 
-🎓 BSc Econometrics & Operations Research (Erasmus University Rotterdam)  
+🎓 MSc Applied Mathematics & Statistics (Johns Hopkins University)
+🎓 BSc Econometrics & Operations Research (Erasmus University Rotterdam)
 📍 Interested in quantitative finance, risk modeling, and applied econometrics
 
 ---
 
 ## 🔍 What I work on
+- Explainable Image recognition using BiomedCLIP and Neural Additive Models (BSc Thesis)
 - Volatility modeling (GARCH, Realized GARCH, HAR-RV)
 - Time series forecasting
 - Optimization & energy market models
